@@ -6,6 +6,8 @@ int main() {
     cout << endl;
     cout << "My name is Rong";
     cout << endl;
+    cout << "Toi dang o nhanh 1";
+    cout << endl;
     cout << "Toi dang o nhanh 2";
     return 0;
 }
